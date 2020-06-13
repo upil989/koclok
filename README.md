@@ -1,2 +1,2 @@
 # koclok
-python2
+
